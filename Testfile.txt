@@ -1,2 +1,2 @@
 This is a test file to be displayed on GitHub.
-Version1.
+This is already version 2 of the file.
